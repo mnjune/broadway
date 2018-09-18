@@ -2,6 +2,10 @@ html {
   text-align: center;
 }
 
+.intro_banner {
+  background-image: image();
+}
+
 h1 {
   font-family: Helvetica;
   font-size: 70px;
@@ -9,7 +13,7 @@ h1 {
   color: white;
 }
 
-.list1 {
+.list {
   font-family: Helvetica;
   font-size: 18px
   color: white;
@@ -32,7 +36,7 @@ h3 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: image();
+  background-image:"resources/the-flat-iron-building.png";
 }
 
 .footer {
